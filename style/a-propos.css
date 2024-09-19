@@ -39,7 +39,7 @@
     border-right: 1px solid #deb992;
     border-bottom: 1px solid #deb992;
     padding: 50px;
-    width: 50%;
+    width: 100%;
     margin: auto;
     margin-bottom: 80px;
   }
@@ -90,18 +90,18 @@
   @media screen and (max-width: 996px) {
 
     .carre-contenu {
-      width: 65%;
+      width: 90%;
     }
     p,li {
-      font-size: 12px;
+      font-size: 1em;
     }
     
    td {
     padding: 10px 5px 10px 5px;
-    font-size: 12px;
+    font-size: 1em;
    }
 
    th {
-    font-size: 14px;
+    font-size: 1em;
    }
   }
