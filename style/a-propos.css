@@ -92,9 +92,16 @@
     .carre-contenu {
       width: 65%;
     }
-   
+    p,li {
+      font-size: 12px;
+    }
+    
    td {
     padding: 10px 5px 10px 5px;
+    font-size: 12px;
    }
-   
+
+   th {
+    font-size: 14px;
+   }
   }
