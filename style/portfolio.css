@@ -20,6 +20,46 @@
         background-position: center -500px
     }
   }
+
+  @-webkit-keyframes move-bg {
+    0% {
+        background-position: center 0
+    }
+  
+    to {
+        background-position: center -500px
+    }
+  }
+
+  @-moz-keyframes move-bg {
+    0% {
+        background-position: center 0
+    }
+  
+    to {
+        background-position: center -500px
+    }
+  }
+
+  @-o-keyframes move-bg {
+    0% {
+        background-position: center 0
+    }
+  
+    to {
+        background-position: center -500px
+    }
+  }
+
+  @-ms-keyframes move-bg {
+    0% {
+        background-position: center 0
+    }
+  
+    to {
+        background-position: center -500px
+    }
+  }
   
   .portfolio-section-photos h2 {
     color: #deb992;

@@ -20,6 +20,46 @@
   }
 }
 
+@-webkit-keyframes move-bg {
+  0% {
+      background-position: center 0
+  }
+
+  to {
+      background-position: center -500px
+  }
+}
+
+@-moz-keyframes move-bg {
+  0% {
+      background-position: center 0
+  }
+
+  to {
+      background-position: center -500px
+  }
+}
+
+@-o-keyframes move-bg {
+  0% {
+      background-position: center 0
+  }
+
+  to {
+      background-position: center -500px
+  }
+}
+
+@-ms-keyframes move-bg {
+  0% {
+      background-position: center 0
+  }
+
+  to {
+      background-position: center -500px
+  }
+}
+
 .carre-contenu {
     border-right: 1px solid #deb992;
     border-bottom: 1px solid #deb992;
