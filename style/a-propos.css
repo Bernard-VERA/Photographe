@@ -5,7 +5,7 @@
 }
 
 .section-tarifs {
-  background: #051622 url(/images/bg_star.png) repeat-y;
+  background: #051622 url(../images/bg_star.png) repeat-y;
   animation: move-bg  60s linear;
   animation-fill-mode: forwards;
 }
