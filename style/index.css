@@ -1,6 +1,6 @@
 .hero {
   position: relative;
-  background: #051622 url(/images/bg_star.png) repeat-y;
+  background: #051622 url(../images/bg_star.png) repeat-y;
   animation: move-bg  60s linear;
   animation-fill-mode: forwards;
 }
@@ -8,59 +8,34 @@
 .accueil-photos {
     background-color: white;
     padding: 80px;
-    background: #051622 url(/images/bg_star.png) repeat-y;
+    background: #051622 url(../images/bg_star.png) repeat-y;
     animation: move-bg  60s linear;
     animation-fill-mode: forwards;
   }
 
   @keyframes move-bg {
-    0% {
-        background-position: center 0
-    }
-  
-    to {
-        background-position: center -500px
-    }
+    0% { background-position: center 0; }
+    to { background-position: center -500px; }
   }
-
+  
   @-webkit-keyframes move-bg {
-    0% {
-        background-position: center 0
-    }
-  
-    to {
-        background-position: center -500px
-    }
+    0% { background-position: center 0; }
+    to { background-position: center -500px; }
   }
-
+  
   @-moz-keyframes move-bg {
-    0% {
-        background-position: center 0
-    }
-  
-    to {
-        background-position: center -500px
-    }
+    0% { background-position: center 0; }
+    to { background-position: center -500px; }
   }
-
+  
   @-o-keyframes move-bg {
-    0% {
-        background-position: center 0
-    }
-  
-    to {
-        background-position: center -500px
-    }
+    0% { background-position: center 0; }
+    to { background-position: center -500px; }
   }
-
-  @-ms-keyframes move-bg {
-    0% {
-        background-position: center 0
-    }
   
-    to {
-        background-position: center -500px
-    }
+  @-ms-keyframes move-bg {
+    0% { background-position: center 0; }
+    to { background-position: center -500px; }
   }
   
   .accueil-photos h2 {
