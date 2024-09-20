@@ -90,9 +90,14 @@
   }
   
   @media screen and (max-width: 996px) {
+
     .grid-paysages1,
     .grid-paysages2 {
       grid-template-columns: 1fr;
       gap: 15px;
+    }
+
+    h1 {
+      text-align: center;
     }
   }

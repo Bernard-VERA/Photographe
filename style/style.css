@@ -28,14 +28,12 @@
     color: #deb992;
   }
   
-  p,
-  li {
+  p, li {
     font-size: 1.1em;
     color: #deb992;
   }
   
-  header,
-  footer {
+  header, footer {
     background-color: white;
     padding: 20px 50px;
   }
@@ -69,8 +67,7 @@
     padding: 80px;
   }
   
-  footer,
-  nav {
+  footer, nav {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -82,6 +79,7 @@
   }
   
   @media screen and (max-width: 996px) {
+    
     header nav {
       flex-direction: column;
       align-items: center;
@@ -92,8 +90,7 @@
       margin-bottom: 20px;
     }
   
-    header,
-    footer {
+    header, footer {
       padding: 20px 20px;
     }
   
@@ -103,6 +100,7 @@
 
     .lien-icone {
       margin-left: 0px;
+      padding: 10px;
     }
   
     section {
@@ -114,7 +112,4 @@
       margin-right: 10px;
     }
 
-    .lien-icone {
-      padding-left: 20px;
-     }
   }
