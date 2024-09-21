@@ -51,7 +51,8 @@
   }
   
   .carre-contenu ul {
-    margin-top: 30px;
+    margin: 30px auto 20px auto ;
+    width: 250px;
   }
   
   .carre-contenu + div {
@@ -93,6 +94,11 @@
     .carre-contenu {
       width: 90%;
     }
+
+    .carre-contenu p {
+      text-align: justify;
+    }
+
     p,li {
       font-size: 1em;
     }

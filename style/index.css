@@ -67,6 +67,7 @@
   
   .accueil-introduction p {
     margin-bottom: 30px;
+    text-align: justify;
   }
   
   .accueil-introduction div {
