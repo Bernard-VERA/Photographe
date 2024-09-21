@@ -134,11 +134,13 @@
     .accueil-introduction img {
       order: 1;
       margin-bottom: 20px;
-      width: 100%;
+      max-width: 75%;
     }
   
     .accueil-photos {
       padding: 20px;
+      max-width: 75%;
+      margin: auto;
     }
   
     .accueil-photos div {
