@@ -4,6 +4,11 @@
   animation: move-bg  60s linear;
   animation-fill-mode: forwards;
 }
+
+.portfolio-section h1 {
+  text-align: center;
+}
+
 .portfolio-section-photos {
   background: #051622 url(../images/bg_star.png) repeat-y;
   animation: move-bg  60s linear;
@@ -40,6 +45,7 @@
     color: #deb992;
     margin-bottom: 30px;
     margin-top: 30px;
+    text-align: center;
 
   }
   
@@ -49,6 +55,8 @@
     grid-template-rows: 300px 300px 300px;
     gap: 15px;
     padding-bottom: 30px;
+    max-width: 1280px;
+    margin: auto;
   }
   
   .grid-paysages2 {
@@ -57,6 +65,8 @@
     grid-template-rows: 300px 300px;
     gap: 15px;
     padding-bottom: 50px;
+    max-width: 1280px;
+    margin: auto;
   }
   
   .grid-paysages1 img,
