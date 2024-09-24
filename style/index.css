@@ -1,6 +1,6 @@
 .hero {
   position: relative;
-  background: #051622 url(../images/bg_star.png) repeat-y;
+  background: #051622 url(../images/bg_star.webp) repeat-y;
   animation: move-bg  60s linear;
   animation-fill-mode: forwards;
 }
@@ -8,7 +8,7 @@
 .accueil-photos {
     background-color: white;
     padding: 80px;
-    background: #051622 url(../images/bg_star.png) repeat-y;
+    background: #051622 url(../images/bg_star.webp) repeat-y;
     animation: move-bg  60s linear;
     animation-fill-mode: forwards;
   }

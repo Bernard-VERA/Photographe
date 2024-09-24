@@ -1,6 +1,6 @@
 
 .portfolio-section {
-  background: #051622 url(../images/bg_star.png) repeat-y;
+  background: #051622 url(../images/bg_star.webp) repeat-y;
   animation: move-bg  60s linear;
   animation-fill-mode: forwards;
 }
@@ -10,7 +10,7 @@
 }
 
 .portfolio-section-photos {
-  background: #051622 url(../images/bg_star.png) repeat-y;
+  background: #051622 url(../images/bg_star.webp) repeat-y;
   animation: move-bg  60s linear;
   animation-fill-mode: forwards;
   padding: 20px;
