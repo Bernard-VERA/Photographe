@@ -15,3 +15,9 @@ J'ai beaucoup travaillé pour obtenir un bon résultat au format Desktop, mais a
 La capacité à créer des interfaces web responsives est cruciale dans le développement web moderne.  
 Ces compétences sont fondamentales pour assurer une expérience utilisateur optimale sur divers appareils, un aspect essentiel pour la réussite de tout site web ou application.
 Les test W3C sont bons, ainsi que WAVE et LIGHTHOUSE.
+
+----
+
+<p align="center" width="100%">
+    <img width="90%" src="https://github.com/Bernard-VERA/Photographe/blob/main/images/photographe.jpg"> 
+</p>
