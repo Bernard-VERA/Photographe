@@ -9,6 +9,7 @@ Projet Personnel : PHOTOGRAPHE
 ## Scénario
 
 Pour vérifier mes connaissances et améliorer mon aisance dans le code, j'ai décidé de créér un petit site tout simple. Il s'agit du site d'un photographe amateur, ayant des connaissances en développement web, qui souhaite exposer et partager ses photos.
+
 ------------------
 ## Compétences
 
