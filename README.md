@@ -18,7 +18,10 @@ J'ai converti des images au format WEBP pour le gain de temps et de place. Pour 
 J'ai beaucoup travaillé pour obtenir un bon résultat au format Desktop, mais aussi au format Mobile.
 La capacité à créer des interfaces web responsives est cruciale dans le développement web moderne.  
 Ces compétences sont fondamentales pour assurer une expérience utilisateur optimale sur divers appareils, un aspect essentiel pour la réussite de tout site web ou application.
-Les test W3C sont bons, ainsi que WAVE et LIGHTHOUSE.
+Les test W3C sont bons, ainsi que WAVE et LIGHTHOUSE.  
+<br/>
+Vous pouvez voir le projet en cliquant ici : <a href="https://bernard-vera.github.io/Photographe/" target="_blank">Photographe</a>  
+
 
 ----
 
